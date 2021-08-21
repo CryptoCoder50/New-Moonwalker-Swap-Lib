@@ -1,0 +1,23 @@
+{
+  "name": "moonwalkerswap-lib",
+  "version": "1.0.0",
+  "description": "moonwalkerswap lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoonWalkerJim/New-Moonwalker-Swap-Lib.git"
+  },
+  "keywords": [
+    "moonwalkerswap",
+    "lib"
+  ],
+  "author": "moonwalkerjim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MoonWalkerJim/New-Moonwalker-Swap-Lib/issues"
+  },
+  "homepage": "https://github.com/MoonWalkerJim/New-Moonwalker-Swap-Lib#readme"
+}
